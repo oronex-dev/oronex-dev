@@ -3,7 +3,7 @@
 
 ### Web Designer | Digital Solutions | Administrative Support
 
-I build and design responsive websites, modern interfaces, organize documents, and develops consistent works on sheets and software applications.
+I develop responsive websites, create user-focused interfaces, and build practical software applications. My work also includes spreadsheet management, digital documentation, and administrative support for business operations.
 
 I'm a Computer Science student from the Philippines with hands-on experience in web designing using tools, database-driven systems, mobile applications, and business website customization.
 
