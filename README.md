@@ -1,4 +1,28 @@
 
+<p align="center">
+  <img
+    src="assets/oronex-banner.png"
+    alt="Fiel Mark Oronos — Web Developer and Designer"
+    width="100%"
+  />
+</p>
+
+<h2 align="center">Hi, I'm Fiel Mark 👋</h2>
+
+<p align="center">
+  Web Developer & Designer | Digital Solutions | Administrative Support
+</p>
+
+<p align="center">
+  <a href="https://oronex-dev.github.io/portfolio-fiel-mark/">
+    View Portfolio
+  </a>
+  •
+  <a href="mailto:oronosfielmark@gmail.com">
+    Contact Me
+  </a>
+</p>
+
 # Hi, I'm Fiel Mark Oronos 👋
 
 ### Web Designer | Digital Solutions | Administrative Support
